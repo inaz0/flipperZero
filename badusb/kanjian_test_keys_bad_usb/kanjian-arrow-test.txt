@@ -1,0 +1,9 @@
+REM fichier de test de touche badkb pour le flipperzero
+REM Credit: Inazo https://www.youtube.com/@kanjian_fr
+
+DELAY 3000
+SPACE
+DELAY 3000
+ESCAPE
+DELAY 3000
+ENTER

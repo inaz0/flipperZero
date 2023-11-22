@@ -1,0 +1,4 @@
+REM fichier de test de touche badkb pour le flipperzero
+REM Credit: Inazo https://www.youtube.com/@kanjian_fr
+
+STRING ABCDEF

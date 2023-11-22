@@ -1,0 +1,8 @@
+REM fichier de test de touche badkb pour le flipperzero
+REM Credit: Inazo https://www.youtube.com/@kanjian_fr
+
+DELAY 3000
+STRINGLN a
+STRINGLN b
+DELAY 3000
+
