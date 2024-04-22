@@ -1,6 +1,11 @@
 # Mes fichiers / outils utiles pour le Flipper Zero
 
-Retrouvez ici des fichiers et des bouts de code ou autre que j'utilise dans mes vidéos et autres ressources quand cela est pertiant :
+Retrouvez ici des fichiers et des bouts de code ou autre que j'utilise dans mes vidéos et autres ressources quand cela est pertinant :
+
+### NFC
+
+- Mon fichier de clé custom pour mon flipper (dédoublonné) : https://github.com/inaz0/flipperZero/tree/main/nfc/dict
+- Mon petit outil pour dédoublonner votre fichier user de clé NFC : https://github.com/inaz0/flipperZero/tree/main/nfc/tools
 
 ## Ma chaîne Youtube sur le Flipper Zero :
 
