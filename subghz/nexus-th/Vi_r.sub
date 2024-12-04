@@ -1,0 +1,16 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 433920000
+Preset: FuriHalSubGhzPresetOok650Async
+Lat: 0.000000
+Lon: 0.000000
+Protocol: Nexus-TH
+Id: 73
+Bit: 36
+Data: 00 00 00 04 98 0C AF 29
+Batt: 0
+Hum: 41
+Ts: 1733323605
+Ch: 1
+Btn: 255
+Temp: 20.200001
